@@ -14,7 +14,9 @@
 
 ## 0. Инструкция по установке и запуску
 1. [Скачать](https://www.python.org/ftp/python/3.9.13/python-3.9.13-amd64.exe) и установить Python **v3.9.x** или выше
-2. [Скачать]() последнюю версию игры
+2. [Скачать](https://github.com/Data-Name-ID/PyBall/releases/tag/Releases) последнюю версию игры из раздела релизов
+3. Установить зависимости с помощью pip `pip install -r requirements.txt`
+4. Запустить игру `python PyBall.py`
 
 ## 1.1 Идея проекта
 
